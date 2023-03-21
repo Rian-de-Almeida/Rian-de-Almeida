@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, meu nome é Rian. Estou cursando ciência da computação e estou no 4 período. 
 
-<!--
-**Rian-de-Almeida/Rian-de-Almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Rian-de-Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian-de-Almeida&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-de-Almeida&layout=compact&progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div style="display: inline_block"><br/>
+    <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img aling="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img aling="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<div>
+
+### Formas de  cotato:
