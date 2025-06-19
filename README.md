@@ -1,4 +1,4 @@
-### Olá, meu nome é Rian. Estou cursando ciência da computação e estou no 4 período. 
+### Olá, meu nome é Rian. Estou cursando ciência da computação e estou no 7 período. 
 
 ![Rian-de-Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian-de-Almeida&show_icons=true&theme=tokyonight)
 
