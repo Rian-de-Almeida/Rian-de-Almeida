@@ -2,7 +2,6 @@
 
 🎓 Estudante do **7º período de Ciência da Computação** na Estácio.  
 💡 Apaixonado por **tecnologia, ciência de dados e inovação**.  
-🚀 Atualmente em transição para **desenvolvimento web**, sempre buscando aprender novas áreas e me aprimorar.  
 
 ---
 
