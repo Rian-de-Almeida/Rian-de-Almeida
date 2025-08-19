@@ -38,5 +38,5 @@ Projetos acadêmicos, cursos práticos, experiência em empresa com análise de 
 ---
 
 ## 🌍 Vamos nos conectar?
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📂 [Portfólio/GitHub](https://github.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rian-de-almeida-ferreira-a70982273/)  
+ 
