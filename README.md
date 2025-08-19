@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Rian
 
-🎓 Estudante do **7º período de Ciência da Computação** na Estácio.  
+🎓 Estudante do **7º período de Ciência da Computação**.  
 💡 Apaixonado por **tecnologia, ciência de dados e inovação**.  
 
 ---
